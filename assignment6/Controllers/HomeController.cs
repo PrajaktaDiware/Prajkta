@@ -11,7 +11,7 @@ using System.Web.Mvc;
 
 namespace assignment6.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController :Controller
     {
         private Employeecontext db = new Employeecontext();
 
